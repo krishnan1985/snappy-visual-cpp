@@ -5,7 +5,7 @@ This repository was forked from [https://github.com/robertvazan/snappy-visual-cp
 
 Changes:
 
- * Re-targeted to VS2019.
+ * Re-targeted to VS2022.
  * Removed architecture suffix from library.
  * Export C++ symbols.
 
